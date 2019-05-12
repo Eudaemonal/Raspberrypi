@@ -34,8 +34,8 @@ network={
 ## Installation
 
 * CMake and C++ boost library
-sudo apt-get install cmake
-sudo apt-get install libboost-all-dev
+```sudo apt-get install cmake```
+```sudo apt-get install libboost-all-dev```
 
 * Opencv 4.0.0
 
